@@ -14,7 +14,7 @@ referenceDocs:
       code:
         fontFamily: "Ubuntu Mono, monospace"
         fontSize: "10px"
-       headings:
+      headings:
         fontFamily: "Roboto, sans-serif"
         fontWeight: "800"
     colors:
