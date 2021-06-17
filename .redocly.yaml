@@ -9,14 +9,15 @@ lint:
 referenceDocs:
   htmlTemplate: ./docs/index.html
   theme:
-    backgroundColor: "#333333"
-    typgography:
+    sidebar:
+      backgroundColor: '#333333'
+    typography:
       code:
-        fontFamily: "Ubuntu Mono, monospace"
-        fontSize: "10px"
+        fontFamily: 'Ubuntu Mono, monospace'
+        fontSize: '10px'
       headings:
-        fontFamily: "Roboto, sans-serif"
-        fontWeight: "800"
+        fontFamily: 'Roboto, sans-serif'
+        fontWeight: '800'
     colors:
       primary:
         main: "#14329f"
