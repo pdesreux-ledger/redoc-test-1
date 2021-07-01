@@ -5,7 +5,7 @@ info:
   termsOfService: 'termsofservice.com'
   contact:
     email: contact@example.com
-    url: 'url.com'
+    Home: 'http://localhost:3000/'
   license:
     name: Apache 2.0
     url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
