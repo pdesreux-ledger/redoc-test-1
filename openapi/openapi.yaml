@@ -1,11 +1,11 @@
 openapi: 3.0.3
 info:
   version: 1.0.0
-  title: TestExample.com
-  termsOfService: 'http://localhost:3000/'
+  title: TestExample1.com
+  termsOfService: 'termsofservice.com'
   contact:
     email: contact@example.com
-    url: 'http://localhost:3000/'
+    url: 'url.com'
   license:
     name: Apache 2.0
     url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
@@ -15,7 +15,7 @@ info:
     $ref: ./info-description.md
 externalDocs:
   description: Find out how to create a GitHub repo for your OpenAPI definition.
-  url: 'http://localhost:3000/'
+  url: 'externaldocs.com'
 tags:
   - name: Echo
     description: Example echo operations.
